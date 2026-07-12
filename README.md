@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 ## String
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 ## Two Pointers
