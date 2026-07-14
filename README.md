@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
+| [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0482-license-key-formatting](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0482-license-key-formatting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0925-long-pressed-name) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0925-long-pressed-name](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
