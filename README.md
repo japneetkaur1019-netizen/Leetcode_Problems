@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0482-license-key-formatting) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -81,5 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
