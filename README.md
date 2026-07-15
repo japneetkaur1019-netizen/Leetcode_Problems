@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
