@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
+| [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Simulation
 |  |
