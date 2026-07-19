@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
 | ------- |
