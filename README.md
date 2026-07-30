@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
+| [0941-valid-mountain-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
