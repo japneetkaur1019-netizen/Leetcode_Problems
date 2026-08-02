@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
