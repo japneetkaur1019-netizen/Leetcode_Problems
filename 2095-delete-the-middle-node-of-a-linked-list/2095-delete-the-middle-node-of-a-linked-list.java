@@ -23,7 +23,6 @@ class Solution {
             fast = fast.next.next;
         }
 
-        // slow is the node before the middle
         slow.next = slow.next.next;
 
         return head;
