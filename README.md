@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
+| [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0725-split-linked-list-in-parts](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0143-reorder-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
