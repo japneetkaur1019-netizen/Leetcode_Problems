@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
+| [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -249,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
