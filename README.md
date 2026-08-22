@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0725-split-linked-list-in-parts](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0876-middle-of-the-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1669-merge-in-between-linked-lists) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -258,13 +261,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
