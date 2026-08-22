@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## String
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3151-special-array-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
