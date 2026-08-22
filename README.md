@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
+| [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0941-valid-mountain-array) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
+| [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
