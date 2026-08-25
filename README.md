@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Linked List
 |  |
