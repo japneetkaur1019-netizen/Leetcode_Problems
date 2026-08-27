@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
@@ -298,4 +300,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
