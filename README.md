@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Sliding Window
