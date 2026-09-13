@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Bit Manipulation
 |  |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
