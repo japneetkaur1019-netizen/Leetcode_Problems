@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0148-sort-list) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
+| [0056-merge-intervals](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
