@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1592-rearrange-spaces-between-words](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
