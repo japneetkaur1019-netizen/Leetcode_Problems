@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0925-long-pressed-name) |
 | [0942-di-string-match](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Quicksort
