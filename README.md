@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0345-reverse-vowels-of-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0482-license-key-formatting](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0482-license-key-formatting) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0394-decode-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
