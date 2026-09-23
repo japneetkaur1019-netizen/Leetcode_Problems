@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
@@ -414,4 +418,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
