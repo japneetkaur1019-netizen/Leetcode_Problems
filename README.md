@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0155-min-stack) |
@@ -396,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
@@ -426,4 +430,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
