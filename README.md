@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0853-car-fleet) |
 | [0905-sort-array-by-parity](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 ## Greedy
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0556-next-greater-element-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
@@ -414,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0853-car-fleet) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
