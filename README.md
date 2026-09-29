@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
 ## Bracket Sequences
 |  |
 | ------- |
