@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 ## Array
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -434,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0962-maximum-width-ramp) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
