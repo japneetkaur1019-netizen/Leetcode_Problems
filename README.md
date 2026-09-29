@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Sliding Window
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 ## Trie
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -375,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Divide and Conquer
@@ -440,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 |  |
