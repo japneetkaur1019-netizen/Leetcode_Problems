@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [1673-find-the-most-competitive-subsequence](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1673-find-the-most-competitive-subsequence) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1793-maximum-score-of-a-good-subarray) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1669-merge-in-between-linked-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1669-merge-in-between-linked-lists) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [2074-reverse-nodes-in-even-length-groups](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2074-reverse-nodes-in-even-length-groups) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -427,12 +429,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -501,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
+| [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
