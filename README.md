@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
+| [0636-exclusive-time-of-functions](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0636-exclusive-time-of-functions](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
