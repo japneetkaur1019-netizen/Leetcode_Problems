@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0682-baseball-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0725-split-linked-list-in-parts) |
 | [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0460-lfu-cache) |
+| [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 ## Monotonic Queue
 |  |
 | ------- |
