@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0554-brick-wall](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0554-brick-wall) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
+| [0895-maximum-frequency-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
+| [0895-maximum-frequency-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
+| [0895-maximum-frequency-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
+| [0895-maximum-frequency-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0895-maximum-frequency-stack) |
 ## Matrix
 |  |
 | ------- |
