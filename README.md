@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
