@@ -443,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0707-design-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0707-design-linked-list) |
 | [0895-maximum-frequency-stack](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0895-maximum-frequency-stack) |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
@@ -463,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Stack
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Monotonic Queue
 |  |
