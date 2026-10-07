@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
+| [0649-dota2-senate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0709-to-lower-case) |
 | [0844-backspace-string-compare](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0844-backspace-string-compare) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0341-flatten-nested-list-iterator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0341-flatten-nested-list-iterator) |
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1670-design-front-middle-back-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
