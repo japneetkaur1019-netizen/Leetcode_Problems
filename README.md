@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0739-daily-temperatures) |
 | [0817-linked-list-components](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0853-car-fleet](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0853-car-fleet) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0905-sort-array-by-parity) |
 | [0907-sum-of-subarray-minimums](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0907-sum-of-subarray-minimums) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0904-fruit-into-baskets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -285,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
@@ -439,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1046-last-stone-weight](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -551,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0649-dota2-senate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0649-dota2-senate) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [0950-reveal-cards-in-increasing-order](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0950-reveal-cards-in-increasing-order) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -562,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Cartesian Tree
 |  |
