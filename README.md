@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0962-maximum-width-ramp](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0962-maximum-width-ramp) |
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1046-last-stone-weight](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1089-duplicate-zeros](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
+| [1046-last-stone-weight](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1046-last-stone-weight) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
 ## Merge Sort
 |  |
