@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0390-elimination-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0390-elimination-game) |
 | [0445-add-two-numbers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0556-next-greater-element-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0633-sum-of-square-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0633-sum-of-square-numbers) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0390-elimination-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0394-decode-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
