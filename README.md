@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1592-rearrange-spaces-between-words](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Sliding Window
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
+| [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
