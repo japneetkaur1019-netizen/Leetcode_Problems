@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Bit Manipulation
 |  |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2296-design-a-text-editor](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
 | [3597-partition-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3597-partition-string) |
 ## Sliding Window
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2296-design-a-text-editor](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2866-beautiful-towers-ii) |
