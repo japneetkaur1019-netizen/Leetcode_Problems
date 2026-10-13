@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1106-parsing-a-boolean-expression) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1592-rearrange-spaces-between-words](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1592-rearrange-spaces-between-words) |
 | [1598-crawler-log-folder](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1598-crawler-log-folder) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1106-parsing-a-boolean-expression](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1106-parsing-a-boolean-expression) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1472-design-browser-history) |
