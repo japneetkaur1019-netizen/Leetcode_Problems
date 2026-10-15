@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0045-jump-game-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0148-sort-list) |
 | [0918-maximum-sum-circular-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
