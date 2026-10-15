@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0409-longest-palindrome) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0647-palindromic-substrings](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0907-sum-of-subarray-minimums](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0907-sum-of-subarray-minimums) |
