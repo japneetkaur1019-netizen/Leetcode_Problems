@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2439-minimize-maximum-of-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2439-minimize-maximum-of-array) |
 ## Dynamic Programming
 |  |
@@ -475,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2296-design-a-text-editor](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2296-design-a-text-editor) |
 | [2390-removing-stars-from-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1793-maximum-score-of-a-good-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1793-maximum-score-of-a-good-subarray) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
+| [2281-sum-of-total-strength-of-wizards](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2487-remove-nodes-from-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
