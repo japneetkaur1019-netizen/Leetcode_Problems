@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0007-reverse-integer) |
+| [0048-rotate-image](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 ## Queue
 |  |
