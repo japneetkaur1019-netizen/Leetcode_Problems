@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0055-jump-game) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
