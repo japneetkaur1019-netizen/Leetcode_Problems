@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0853-car-fleet](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0853-car-fleet) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0414-third-maximum-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
