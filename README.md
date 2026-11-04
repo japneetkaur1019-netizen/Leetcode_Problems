@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0227-basic-calculator-ii) |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0077-combinations) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
