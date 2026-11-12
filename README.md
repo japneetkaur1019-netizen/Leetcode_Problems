@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2865-beautiful-towers-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2865-beautiful-towers-i) |
 | [2866-beautiful-towers-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2866-beautiful-towers-ii) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3151-special-array-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3379-transformed-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3379-transformed-array) |
