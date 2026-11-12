@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-find-common-characters](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1002-find-common-characters) |
 | [1172-dinner-plate-stacks](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1172-dinner-plate-stacks) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2451-odd-string-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2451-odd-string-difference) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2073-time-needed-to-buy-tickets) |
 | [2104-sum-of-subarray-ranges](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2104-sum-of-subarray-ranges) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2281-sum-of-total-strength-of-wizards](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2281-sum-of-total-strength-of-wizards) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2289-steps-to-make-array-non-decreasing) |
