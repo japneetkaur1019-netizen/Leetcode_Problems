@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0075-sort-colors) |
 | [0147-insertion-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0389-find-the-difference) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 | [1748-sum-of-unique-elements](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [3046-split-the-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/3046-split-the-array) |
@@ -521,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 ## Heap (Priority Queue)
@@ -702,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0069-sqrtx) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
