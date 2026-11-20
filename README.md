@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
