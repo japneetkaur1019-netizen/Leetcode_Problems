@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0457-circular-array-loop](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0457-circular-array-loop) |
+| [0485-max-consecutive-ones](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0503-next-greater-element-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/japneetkaur1019-netizen/Leetcode_Problems/tree/master/0532-k-diff-pairs-in-an-array) |
